@@ -2,9 +2,9 @@
 
 [![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tombui99&theme=dark)](https://github.com/tombui99/github-readme-stats)
 
-- 🔭 I’m currently working on Angular and Dotnet projects!
+- 🔭 I’m currently working on Angular and .NET projects!
 - 🌱 I’m currently learning React
-- 💬 Ask me about Javascript, Angular, NodeJS and ASP.NET Core
+- 💬 Ask me about Javascript, Angular, NodeJS and .NET
 - - 📫 How to reach me: @tombui99
 
 <!--
